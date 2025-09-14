@@ -319,9 +319,7 @@ export default function GroupDetail({ groupId }: PageProps) {
                             </TableCell>
                           </TableRow>
                           <TableRow>
-                            <TableCell className="font-medium">
-                              message
-                            </TableCell>
+                            <TableCell className="font-medium">body</TableCell>
                             <TableCell className="font-medium">
                               รายละเอียดการแจ้งเตือน
                             </TableCell>
